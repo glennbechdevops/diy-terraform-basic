@@ -13,7 +13,7 @@ The initial code creates an AWS S3 bucket with the following characteristics:
 ## Exercise Tasks
 1. Review the initial code in `main.tf`
 2. Create a module from the existing code:
-   - Move the S3 bucket configuration into a folder called ``
+   - Move the S3 bucket configuration into a folder of your own choosing
    - Replace hardcoded values with variables
    - Define appropriate outputs
 
